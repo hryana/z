@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CV</title>
+    <style>
+
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>Curriculum Vitae</h1>
+      <p>Name: Yana</p>
+      <p>Surname: Hrabouskaya</p>
+    </header>
+
+    <main>
+        <h2>About me</h2>
+        <p>I am a lawyer by profession.</p>
+        <p>I recently started learning HTML, CSS and Java Script. I love to learn 
+	something new and learn quickly.</p>
+	<p>My positive qualities are perseverance, attentiveness, responsibility and 
+	the ability to work in a team. I like to algorithmize everything.</p>
+        <p>My English level is A2. And I study every day to improve my English faster.</p>
+    </main>
+
+    <footer>
+      <article>
+        <h1>Сontact Information:</h1>
+        <ul>
+          <li>Number: +375-29-607-64-04</li>
+          <li>E-mail: hr_yana@mail.ru</li>
+        </ul>
+      </article>
+    </footer>
+  </body>
+</html>
